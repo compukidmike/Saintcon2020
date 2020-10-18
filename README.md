@@ -11,4 +11,27 @@ NOTE: The badge can be powered by 2 AA batteries or micro USB. It only provides 
 Here's the assembly video: https://youtu.be/r8JDBqyHX5A
 
 ## Make-Your-Own Minibadge
-Video coming soon!
+The minibadge tutorial is a 3-part video series that takes you through the process step-by-step.
+
+
+Minibadge Tutorial videos:
+
+Part 1: https://youtu.be/kkLfmo14oiQ
+
+Part 2: https://youtu.be/RfbPnrkeA8w
+
+Part 3: https://youtu.be/XeMOFKI133k
+
+
+Links to software and files you'll need:
+
+KiCad 5.1.7: https://kicad-pcb.org/
+
+Inkscape 1.0.1: https://inkscape.org/
+
+svg2shenzhen 0.2.18.7: https://github.com/badgeek/svg2shenzhen
+
+minibadge libraries: https://github.com/compukidmike/minibadge
+
+
+If you have questions, please ask on the Saintcon Discord.
