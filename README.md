@@ -16,8 +16,8 @@ The minibadge tutorial is a 3-part video series that takes you through the proce
 
 Minibadge Tutorial videos: 
   * Part 1: https://youtu.be/kkLfmo14oiQ 
-  * Part 2: https://youtu.be/RfbPnrkeA8w 
-  * Part 3: https://youtu.be/XeMOFKI133k 
+  * Part 2: https://youtu.be/oAkId60DOd4 
+  * Part 3: https://youtu.be/VVd4cdz-lU0 
 
 
 Links to software and files you'll need:  
