@@ -21,7 +21,7 @@ Minibadge Tutorial videos:
 
 
 Links to software and files you'll need:  
-KiCad 5.1.7: https://kicad-pcb.org/  
+KiCad 5.1.7: https://kicad.org/  
 Inkscape 1.0.1: https://inkscape.org/  
 svg2shenzhen 0.2.18.7: https://github.com/badgeek/svg2shenzhen  
 minibadge libraries: https://github.com/compukidmike/minibadge  
